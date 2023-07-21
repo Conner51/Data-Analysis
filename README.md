@@ -34,7 +34,18 @@ Feature Selection: Identify significant features that influence bike rentals.
 Machine Learning: Build and train a predictive model to forecast bike rentals.
 Evaluation: Assess the model's performance and discuss the results.
 Key Findings
--
+- There is a strong direct relationship between temperature and Daily rentals.
+- Positive correlation between temperature and Daily rentals for Spring, Summer, and Winter seasons.
+- For Fall season, there was no correlation between temperature and Daily rentals.
+- Fall season was the only season that was not statistically significant in terms of its relationship with Daily rentals.
+- Weak positive correlation between seasons (Spring, Summer, Winter) and Daily rentals (excluding Fall).
+- Near-zero correlation between holidays and Daily rentals.
+- Near-zero correlation between weekdays and Daily rentals.
+- The busiest months were the middle months of the year (June, July, August, September, and October).
+- Summer and Fall were the most popular seasons for daily rentals, with Winter trailing closely behind.
+- Most rentals occurred when the weather was cloudy or less, and there was a clear drop-off in rentals when any sort of rain was happening.
+- Around 20% and less of users were casual users vs. registered users.
+- January, February, November, and December were low usage months for casual users.
 
 Conclusion
 This specific data analysis, being my first, has really opened my eyes as to why Python is such a popular tool. After getting past the intitial learning curve, it really is a great platform to manipulate large data sets.
